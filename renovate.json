@@ -1,3 +1,4 @@
 {
+  "rangeStrategy": "pin",
   "enabledManagers": ["pip_setup"]
 }
