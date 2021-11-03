@@ -26,7 +26,7 @@ setuptools.setup(
         "tqdm",
         "lxml",
         "psutil",
-        "geopandas>=0.9.0",
+        "geopandas>=0.10.2",
         "cloudpathlib[all]",
     ],
     extras_require={
